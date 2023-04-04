@@ -3,17 +3,19 @@
 
 In this project we have obtained insights on the T20 Cricket World Cup Tournament held during 2022.
 
-![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Insights1.png)
-
-![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Most%20run%20outs%20-%20Batsman.png)
-
-![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Players'%20Avg%20perfromance%20in%20each%20ground.png)
 ## Project Goal
 
 1) To Gather performance stats on Batsmen & Bowlers.
 2) To Gather performance stats on Teams.
 3) To Gather performance stats of Players & Teams in Individual Stadiums.
 4) To provide visuals Stats.
+
+![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Insights1.png)
+
+![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Most%20run%20outs%20-%20Batsman.png)
+
+![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Players'%20Avg%20perfromance%20in%20each%20ground.png)
+
 
 ## Data
 
