@@ -3,7 +3,6 @@
 
 In this project we have obtained insights on the T20 Cricket World Cup Tournament held during 2022.
 
-## Screenshots
 ![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Insights1.png)
 
 ![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Most%20run%20outs%20-%20Batsman.png)
