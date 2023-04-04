@@ -10,8 +10,7 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 3) To Gather performance stats of Players & Teams in Individual Stadiums.
 4) To provide visuals Stats.
 
-
-https://user-images.githubusercontent.com/79357446/229832424-bce895de-d980-47a3-97c0-2bdfe295a709.mp4
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/79357446/229833298-e2ca7c2f-8cb7-4bff-9fbf-b34abf58a271.gif)
 
 
 
