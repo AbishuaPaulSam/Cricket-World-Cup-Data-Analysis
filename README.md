@@ -14,12 +14,6 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 
 
 
-![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Insights1.png)
-
-
-![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Players'%20Avg%20perfromance%20in%20each%20ground.png)
-
-
 ## Data
 
 
