@@ -37,3 +37,6 @@ The Data used in this project was available in a JSON file, which was scrapped f
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishua-paul-sam-38480a161/)
+
+## Screenshots
+![Alt text](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis/blob/main/Insights1.png)
