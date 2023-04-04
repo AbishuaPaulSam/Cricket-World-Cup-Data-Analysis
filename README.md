@@ -1,5 +1,5 @@
 
-# End to End Cricket World Cup Data Analysis
+# Data Analysis - Cricket World Cup 2022 
 
 In this project we have obtained insights on the T20 Cricket World Cup Tournament held during 2022.
 
@@ -8,9 +8,13 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 1) To Gather performance stats on Batsmen & Bowlers.
 2) To Gather performance stats on Teams.
 3) To Gather performance stats of Players & Teams in Individual Stadiums.
-4) To provide visuals for Stats.
+4) To provide visuals Stats.
 
-## Tech Stack
+## Data
+
+
+The Data used in this project was available in a JSON file, which was scrapped from "ESPN cricinfo".
+## Tech 
 
 **Python:** Jupyter Notebook
 
@@ -27,13 +31,9 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 **JSON:** import json
 
 
-    
-## Data Used
 
-The Data used in this project was available in a JSON file, which was scrapped from "ESPN cricinfo".
-## 🚀 About Me
-I'm a Data Analyst from India, who loves to prepare data and gather Insights.
 
-## Data Used
 
-The Data used in this project was available in a JSON file, which was scrapped from "ESPN cricinfo".
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishua-paul-sam-38480a161/)
