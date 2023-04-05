@@ -20,8 +20,7 @@ The Data used in this project was available in a JSON file, which was scrapped f
 ## Tech 
 
 **Python:** Jupyter Notebook
-
-**Python Verson:** 3.8.8
+**version:** 3.8.8
 
 
 ## Modules Installed
