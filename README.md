@@ -6,10 +6,10 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 ## Project Goal
 
 The goal of this project is to gather 
-* To Gather performance stats on Batsmen & Bowlers.
-* To Gather performance stats on Teams.
-* To Gather performance stats of Players & Teams in Individual Stadiums.
-* To provide visuals Stats.
+* Performance stats on Batsmen & Bowlers.
+* Performance stats on Teams.
+* Stats of Players & Teams in Individual Stadiums.
+* And to provide visuals Stats.
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/79357446/229840500-b7285ebd-7f8b-4bd1-b6d2-0d06fd538315.gif)
 
