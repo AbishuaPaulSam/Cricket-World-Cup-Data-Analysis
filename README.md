@@ -5,10 +5,11 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 
 ## Project Goal
 
-1) To Gather performance stats on Batsmen & Bowlers.
-2) To Gather performance stats on Teams.
-3) To Gather performance stats of Players & Teams in Individual Stadiums.
-4) To provide visuals Stats.
+The goal of this project is to gather 
+* To Gather performance stats on Batsmen & Bowlers.
+* To Gather performance stats on Teams.
+* To Gather performance stats of Players & Teams in Individual Stadiums.
+* To provide visuals Stats.
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/79357446/229840500-b7285ebd-7f8b-4bd1-b6d2-0d06fd538315.gif)
 
@@ -17,6 +18,7 @@ In this project we have obtained insights on the T20 Cricket World Cup Tournamen
 
 
 The Data used in this project was available in a JSON file, which was scrapped from "ESPN cricinfo".
+
 ## Tech 
 
 **Python:** Jupyter Notebook
