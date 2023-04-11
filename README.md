@@ -35,7 +35,13 @@ The Data used in this project was available in a JSON file, which was scrapped f
 **JSON:** import json
 
 
- 
+ ## 🔗 Links to My Other Projects
+
+[RFM Analysis](https://github.com/AbishuaPaulSam/RFM-Analysis)
+
+[Sales Data Insights](https://github.com/AbishuaPaulSam/Sales-Data-Insights)
+
+[HR Analysis](https://github.com/AbishuaPaulSam/HR-Analytics)
 
 
 ## 🔗 Links
